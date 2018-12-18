@@ -16,3 +16,5 @@ Calculates the mean for a set of values, the deviation from the mean per value, 
 Navigate to the Project directory using Terminal or preferred compiler and type:<br> 
 ``` gcc –o StandardDeviationCalculator Qn4_Standard_Deviation_Calculator.c ``` to build.  
 Next, run the executable file 'StandardDeviationCalculator' and enter the parameters for the calculation.
+
+<br>Andrew Colbeck © 2018
